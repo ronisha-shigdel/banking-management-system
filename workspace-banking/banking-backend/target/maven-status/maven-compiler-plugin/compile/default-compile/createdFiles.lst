@@ -1,0 +1,16 @@
+com\banking\banking_backend\service\LoanService.class
+com\banking\banking_backend\BankingBackendApplication.class
+com\banking\banking_backend\config\SecurityConfig.class
+com\banking\banking_backend\config\JwtAuthenticationFilter.class
+com\banking\banking_backend\service\UserService.class
+com\banking\banking_backend\model\User.class
+com\banking\banking_backend\repository\TransactionRepository.class
+com\banking\banking_backend\service\CustomUserDetailsService.class
+com\banking\banking_backend\controller\LoanController.class
+com\banking\banking_backend\model\Loan.class
+com\banking\banking_backend\controller\AuthController.class
+com\banking\banking_backend\repository\LoanRepository.class
+com\banking\banking_backend\config\JwtUtils.class
+com\banking\banking_backend\model\Transaction.class
+com\banking\banking_backend\config\SecurityConfig$1.class
+com\banking\banking_backend\repository\UserRepository.class

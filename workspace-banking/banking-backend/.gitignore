@@ -1,0 +1,4 @@
+/banking-backend/target/
+/banking-backend/.idea/
+/banking-backend/*.log
+/banking-backend/src/main/resources/application.properties
